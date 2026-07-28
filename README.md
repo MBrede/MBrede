@@ -7,8 +7,8 @@ I am Max, a psychologist turned Data Scientist! If you want to see some of my wo
 - **AI Project Manager at [KI-Anwendungszentrum SH](https://kuenstliche-intelligenz.sh/)**  
   I conduct feasibility studies for small and medium businesses in Schleswig-Holstein, helping them explore and implement AI solutions.
 
-- **Research Assistant at the [Department for Psychological Methods at Kiel University](https://www.methoden.psychologie.uni-kiel.de/de)**  
-  In this role, I am pursuing my PhD focused on the analysis of the achievement motive using mathematical psychology (i.e. diffusion modelling) and machine learning (especially NLP-methods). Additionally, I manage the IT systems for the Department of Psychology.
+- **Data Scientist at the MindDoc Health GmBH**  
+  Building AI tools and features for the Companys apps and Therapists.
 
 ## 💬 Get in Touch
 
