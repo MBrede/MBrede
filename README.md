@@ -7,7 +7,7 @@ I am Max, a psychologist turned Data Scientist! If you want to see some of my wo
 - **AI Project Manager at [KI-Anwendungszentrum SH](https://kuenstliche-intelligenz.sh/)**  
   I conduct feasibility studies for small and medium businesses in Schleswig-Holstein, helping them explore and implement AI solutions.
 
-- **Data Scientist at the MindDoc Health GmBH**  
+- **Data Scientist at MindDoc Health**  
   Building AI tools and features for the Companys apps and Therapists.
 
 ## 💬 Get in Touch
